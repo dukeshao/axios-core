@@ -4,7 +4,8 @@ const path = require('path')
 module.exports = {
   mode: "development",
   entry: {
-    entry: './entry.jsx'
+    // entry: './entry.jsx'
+    entry: './entry2.jsx'
   },
   devServer: {
     port: 8989,
