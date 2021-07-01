@@ -5,7 +5,8 @@ module.exports = {
   mode: "development",
   entry: {
     // entry: './entry.jsx'
-    entry: './entry2.jsx'
+    // entry: './entry2.jsx'
+    entry: './entry3.jsx'
   },
   devServer: {
     port: 8989,
